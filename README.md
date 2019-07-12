@@ -1,4 +1,4 @@
-# Complete-project-cases
+# bookstore
 网上书城系统
 主要功能：
 1.前台网站——用户操作
